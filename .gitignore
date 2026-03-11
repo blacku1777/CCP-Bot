@@ -135,3 +135,6 @@ src/config.js
 .env
 database.yml
 terminal.log
+.dockerignore
+Dockerfile
+docker-compose.yml
